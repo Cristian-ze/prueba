@@ -1,0 +1,25 @@
+
+body {
+	color:#FF00FF;
+	background-color: #808080;
+}
+
+
+
+h1 {
+
+	font-family: sans-serif;
+	color: navy;
+}
+td {
+	font-family: fantasy;
+	color: red;
+   }
+ul{
+	font-family: monospace;
+	color: yellow;
+   }
+h1 {
+	font-family: cursive;
+	color: red;
+   }
