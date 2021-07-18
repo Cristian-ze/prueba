@@ -8,18 +8,18 @@ body {
 
 h1 {
 
-	font-family: sans-serif;
-	color: navy;
+	font-family: monospace;
+	color: #00FFFF;
 }
-td {
+h3 {
 	font-family: fantasy;
-	color: red;
+	color: #0000FF;
    }
 ul{
-	font-family: monospace;
-	color: yellow;
+	font-family: sans-serif;
+	color: #C0C0C0;
    }
 h1 {
 	font-family: cursive;
-	color: red;
+	color: #008080;
    }
