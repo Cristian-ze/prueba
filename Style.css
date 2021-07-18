@@ -8,22 +8,24 @@ body {
 h1 {
 
 	font-family: monospace;
+	font-size: 16px;
 	color: #800000;
 }
 h3 {
 	font-family: fantasy;
+	font-size: 14px;
 	color: #00FFFF;
    }
 li{
-	font-family: serifa;
+	font-family: cursive;
 	
    }
 dt{
-	font-family: vegur;
+	font-family: static;
 	
    }
 dd{
-	font-family: verdana;
+	font-family: sans-serif;
 	
    }
 
