@@ -15,7 +15,15 @@ h3 {
 	color: #00FFFF;
    }
 li{
-	font-family: sans-serif;
+	font-family: serifa;
+	
+   }
+dt{
+	font-family: vegur;
+	
+   }
+dd{
+	font-family: verdana;
 	
    }
 
