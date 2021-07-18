@@ -8,11 +8,11 @@ body {
 h1 {
 
 	font-family: monospace;
-	
+	color: #C0C0C0;
 }
 h3 {
 	font-family: fantasy;
-	
+	color: #00FFFF;
    }
 li{
 	font-family: sans-serif;
